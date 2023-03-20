@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * @Date 2023/3/17 10:42
+ * @Since 1.1
  */
 @SpringBootApplication
 @MapperScan("com.demo.dao")
